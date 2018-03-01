@@ -1,0 +1,133 @@
+{
+	"nodes" : [
+		{
+			"name": "Yu-cun",
+			"x": 480,
+			"y": 50
+		}, {
+			"name": "Ru-hai",
+			"x": 480,
+			"y": 125
+		}, {
+			"name": "Dai-yu",
+			"x": 480,
+			"y": 200
+		}, {
+			"name": "Nightingale",
+			"x": 100,
+			"y": 200
+		}, {
+			"name": "Aroma",
+			"x": 290,
+			"y": 200
+		}, {
+			"name": "\"ALL\"",
+			"x": 860,
+			"y": 200
+		}, {
+			"name": "Xi-feng",
+			"x": 290,
+			"y": 275
+		}, {
+			"name": "Grandmother Jia",
+			"x": 480,
+			"y": 275
+		}, {
+			"name": "Maids",
+			"x": 670,
+			"y": 275
+		}, {
+			"name": "Servants",
+			"x": 100,
+			"y": 400
+		}, {
+			"name": "Lady Wang",
+			"x": 290,
+			"y": 400
+		}, {
+			"name": "Lady Xing",
+			"x": 360,
+			"y": 475
+		}, {
+			"name": "Bao-yu",
+			"x": 600,
+			"y": 400
+		}, {
+			"name": "Tan-chun",
+			"x": 600,
+			"y": 475
+		}
+	],
+	"links" : [
+		{
+			"target": 0,
+			"source": 1
+		}, {
+			"target": 1,
+			"source": 2
+		}, {
+			"target": 3,
+			"source": 4
+		}, {
+			"target": 4,
+			"source": 2
+		}, {
+			"target": 2,
+			"source": 5
+		}, {
+			"target": 2,
+			"source": 6
+		}, {
+			"target": 2,
+			"source": 7
+		}, {
+			"target": 2,
+			"source": 8
+		}, {
+			"target": 2,
+			"source": 12
+		}, {
+			"target": 2,
+			"source": 10
+		}, {
+			"target": 2,
+			"source": 11
+		}, {
+			"target": 6,
+			"source": 9
+		}, {
+			"target": 6,
+			"source": 10
+		}, {
+			"target": 7,
+			"source": 9
+		}, {
+			"target": 7,
+			"source": 11
+		}, {
+			"target": 7,
+			"source": 12
+		}, {
+			"target": 7,
+			"source": 8
+		}, {
+			"target": 13,
+			"source": 12
+		}, {
+			"target": 5,
+			"source": 12
+		}, {
+			"target": 5,
+			"source": 8
+		}, {
+			"target": 8,
+			"source": 10
+		}, {
+			"target": 6,
+			"source": 7
+		}, {
+			"target": 9,
+			"source": 11
+		}
+	]
+}

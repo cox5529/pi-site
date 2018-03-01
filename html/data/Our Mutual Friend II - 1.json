@@ -1,0 +1,56 @@
+{
+	"nodes" : [
+		{
+			"name": "Mary Anne",
+			"x": 320,
+			"y": 125
+		}, {
+			"name": "Miss Peecher",
+			"x": 640,
+			"y": 125
+		}, {
+			"name": "Charley",
+			"x": 320,
+			"y": 250
+		}, {
+			"name": "Headstone",
+			"x": 640,
+			"y": 250
+		}, {
+			"name": "Lizzie",
+			"x": 320,
+			"y": 375
+		}, {
+			"name": "Jernny Wren",
+			"x": 640,
+			"y": 375
+		}
+	],
+	"links" : [
+		{
+			"target": 0,
+			"source": 1
+		}, {
+			"target": 1,
+			"source": 3
+		}, {
+			"target": 2,
+			"source": 3
+		}, {
+			"target": 3,
+			"source": 5
+		}, {
+			"target": 3,
+			"source": 4
+		}, {
+			"target": 2,
+			"source": 4
+		}, {
+			"target": 2,
+			"source": 5
+		}, {
+			"target": 4,
+			"source": 5
+		}
+	]
+}
