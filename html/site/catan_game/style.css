@@ -1,0 +1,24 @@
+
+@media (min-width: 1140px) {
+	.first-row {
+		height: 540px;
+	}
+}
+@media (max-width: 1139px) {
+	.first-row {
+		height: 200px;
+	}
+}
+
+.first-row {
+	overflow-y: scroll;
+}
+
+.resource-icon {
+	width: 30px;
+}
+
+.resource-icon-lg {
+	width: 60px;
+	cursor: pointer;
+}

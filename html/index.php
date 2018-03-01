@@ -33,7 +33,7 @@
 				$_SESSION['pass'] = $pass;
 				$_SESSION['user_id'] = $id;
 				
-				header("Location: /site/catan/catan.php");
+				header("Location: /site/index.php");
 				
 			} else {
 				$warn = "Your account has not been approved. Contact Brandon Cox.";

@@ -17,7 +17,10 @@
 				<a class="nav-link" href="/site/tts.php">TTS</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="/site/catan/catan.php">Catan</a>
+				<a class="nav-link" href="/site/catan/catan.php">Gods</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="/site/catan_game/index.php">Catan</a>
 			</li>
 		</ul>
 	</div>
